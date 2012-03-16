@@ -1,0 +1,1 @@
+Reproduction of new iOS 5.1 bug when creating a UIWebView after having cleared NSUserDefaults *after* having created a UIWebView. For more discussion and a workaround go to: http://stackoverflow.com/questions/9679163/why-does-clearing-nsuserdefaults-cause-exc-crash-later-when-creating-a-uiwebview.
